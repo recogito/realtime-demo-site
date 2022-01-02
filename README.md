@@ -1,6 +1,6 @@
 # Realtime Demo Site
 
-Demo site for realtime collaborative annotation with Annotorious. Try here:
+Demo site for realtime collaborative annotation with Annotorious.
 
 __<https://realtime-demo.annotorious.com>__
 
