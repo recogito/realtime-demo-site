@@ -6,7 +6,7 @@ __<http://realtime-demo.annotorious.com>__
 
 ![Social preview image](social.jpg)
 
-Real-time collaboration is powered by the experimental Annotorious
+Powered by the experimental Annotorious
 [Realtime Annotation Server](https://github.com/recogito/realtime-annotation-server).
 
 __Want to know more? Deploy your own server? Contribute to further development? Get in touch via the 
