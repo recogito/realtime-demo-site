@@ -11,7 +11,7 @@ Powered by the experimental
 
 __Want to know more? Deploy your own server? Contribute to development? Get in touch via the 
 [Annotorious Gitter chat](https://gitter.im/recogito/annotorious) or
-[send me a DM via twitter](https://twitter.com/aboutgeo)!__
+[send me a DM on twitter](https://twitter.com/aboutgeo)!__
 
 ## Features
 
