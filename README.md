@@ -17,6 +17,8 @@ Real-time collaboration is powered by the experimental Annotorious
 ## TODOs
 
 - JWT-based Authentication
+- Map annotation with the [OpenSeadragon WMTS plugin](https://github.com/recogito/openseadragon-wmts)
+- Test compatibility with OpenSeadragon v3
 
 __Want to know more? Deploy your own server? Contribute to further development? Get in touch via the 
 [Annotorious Gitter chat](https://gitter.im/recogito/annotorious) or
