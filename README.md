@@ -1,8 +1,8 @@
 # Realtime Demo Site
 
-Demo site for GoogleDocs-like realtime collaborative annotation with Annotorious.
+Demo site for GoogleDocs-like realtime collaborative annotation with Annotorious. Try here:
 
-<http://realtime-demo.annotorious.com>
+__<http://realtime-demo.annotorious.com>__
 
 ![Social preview image](social.jpg)
 
