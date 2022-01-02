@@ -2,7 +2,7 @@
 
 Demo site for realtime collaborative annotation with Annotorious. Try here:
 
-__<http://realtime-demo.annotorious.com>__
+__<https://realtime-demo.annotorious.com>__
 
 ![Social preview image](social.jpg)
 
