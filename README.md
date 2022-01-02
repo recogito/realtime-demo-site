@@ -20,7 +20,7 @@ __Want to know more? Deploy your own server? Contribute to development? Get in t
 
 ## TODOs
 
-- JWT-based Authentication
+- JWT-based authentication
 - Map annotation with the [OpenSeadragon WMTS plugin](https://github.com/recogito/openseadragon-wmts)
-- Test compatibility with OpenSeadragon v3
+- Compatibility with OpenSeadragon v3
 
