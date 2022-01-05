@@ -17,10 +17,10 @@ __Want to know more? Deploy your own server? Contribute to development? Get in t
 
 - GoogleDocs-like live collaboration
 - Cloud-based permanent annotation storage
+- Works with OpenSeadragon v3
 
 ## TODOs
 
 - JWT-based authentication
 - Map annotation with the [OpenSeadragon WMTS plugin](https://github.com/recogito/openseadragon-wmts)
-- Compatibility with OpenSeadragon v3
 
